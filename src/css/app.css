@@ -166,8 +166,8 @@ body {
   margin-left: 20px;
 }
 .masthead-nav > li > a {
-  padding-right: 0;
-  padding-left: 0;
+  padding-right: 10px;
+  padding-left: 10px;
   font-size: 16px;
   color: #fff; /* IE8 proofing */
   /* color: rgba(255,255,255,.75); */
