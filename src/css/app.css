@@ -75,7 +75,7 @@ body {
   background: url(../img/WechatIMG48.jpg) center 0 no-repeat fixed;
   background-size: cover;
   color: #fff;
-  text-shadow: 1px 1px 6px rgba(0,0,0,1);
+  text-shadow: 1px 1px 6px rgba(0,0,0,.5);
 }
 .site-wrapper-1 .site-wrapper-inner {
   background-color: rgba(0,0,0,.2);
@@ -146,6 +146,9 @@ body {
 .masthead a.logo {
   display: block;
   height: 50px;
+  line-height: 50px;
+  margin-top: -10px;
+  text-shadow: none;
 }
 .masthead a.logo:hover {
   text-decoration: none;
@@ -158,6 +161,7 @@ body {
   background-size: contain;
   display: inline-block;
   vertical-align: middle;
+  margin-top: -2px;
 }
 .masthead-nav > li {
   display: inline-block;
