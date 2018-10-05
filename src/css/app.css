@@ -111,7 +111,7 @@ body {
   margin: 0;
 }
 .map-wrap {
-  height: 800px;
+  height: 100%;
 }
 .ctn,
 .cover-container {
