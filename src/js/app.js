@@ -121,7 +121,8 @@ $(document).ready(function() {
         rotation: 0
       }),
       lang: "zh_cn",
-      scrollWheel: false
+      scrollWheel: false,
+      dragEnable: false
     });
     var marker = new AMap.Marker({
       map: mapObj, //将点添加到地图

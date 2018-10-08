@@ -87,7 +87,7 @@ body {
   font-size: 15px;
 }
 .sw-3 {
-  background: url(../img/devfest-family.jpg) center 0 no-repeat fixed;
+  background: url(../img/devfest2017.jpg) center bottom no-repeat fixed;
   background-size: cover;
   color: #fff;
 }
@@ -111,7 +111,7 @@ body {
   margin: 0;
 }
 .map-wrap {
-  height: 100%;
+  height: 50%;
 }
 .ctn,
 .cover-container {
